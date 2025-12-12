@@ -31,7 +31,8 @@ Our project introduces an **intelligent service** that can be integrated with th
 ## 📂 Project Structure
 - `ml_models/` : Machine learning models (forecasting & prediction)
 - `ml_api/` : API to serve the ML models
-- `frontend/` : Web & mobile interface for users
+- `frontend/` : mobile interface for users
+-  `Backend/` : Database and Integrartion
 
 ---
 
