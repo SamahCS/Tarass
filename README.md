@@ -22,7 +22,6 @@ Our project introduces an **intelligent service** that can be integrated with th
 | SQL / SQLite    | 🗄️ |
 | ASP.NET         | 🌐 |
 | Expo (React Native) | 📱 |
-| HTML / CSS / JS | 🎨 |
 | Figma           | 🎨 |
 | Google Colab    | ☁️ |
 
