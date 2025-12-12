@@ -8,7 +8,7 @@ Our project introduces an **intelligent service** that can be integrated with th
 
 ## ✨ Features
 - 👥 **Crowd Analytics:** Analyze real-time and historical congestion levels.
-- 📈 **Congestion Forecasting:** Predict future crowd levels using ML models.
+- 📈 **Congestion Forecasting:** Predict crowd levels using ML models.
 - 🗓️ **Smart Appointment Recommendation:** Suggest the best appointment time for each user.
 - ⏰ **No-Show Prediction & Early Alerts:** Estimate the likelihood of no-shows and notify users.
 
